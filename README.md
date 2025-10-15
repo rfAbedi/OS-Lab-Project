@@ -4,8 +4,6 @@
 + Instructor: *Dr. Nabavi*
 + University: Shahid Beheshti University (SBU)
 
----
-
 ## Project Overview
 
 This project focuses on improving **Readahead** mechanisms in operating systems using data-driven modeling and machine learning.
@@ -19,8 +17,6 @@ The goal of this project is to:
 - Extract and learn workload-specific features from system traces  
 - Train models to dynamically determine optimal readahead sizes  
 - Implement and integrate an adaptive readahead system call into a teaching OS (e.g. Pintos)
-
----
 
 ## Methodology
 
