@@ -1,8 +1,8 @@
 # OS-Lab Project — Adaptive Readahead Optimization
 
-Final Project for **Operating Systems Lab**  
-Instructor: *Dr. Nabavi*
-University: Shahid Beheshti University (SBU)
++ Final Project for **Operating Systems Lab**  
++ Instructor: *Dr. Nabavi*
++ University: Shahid Beheshti University (SBU)
 
 ---
 
